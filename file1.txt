@@ -1,1 +1,2 @@
 Example file1
+Chisto popravit file dlya izmenenia i triggera gita
